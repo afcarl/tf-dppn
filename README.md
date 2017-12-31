@@ -1,2 +1,1 @@
-# tf-dppn
-TensorFlow implementation of DPPN (Differentiable Pattern Producing Network)
+# TensorFlow implementation of DPPN (Differentiable Pattern Producing Network)
